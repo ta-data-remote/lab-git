@@ -27,8 +27,7 @@ Pair yourself with a classmate. Send the link of your GitHub repository to your 
 
 1. Fork your classmate's repository.
 2. Clone the repository, so that you have it locally and can make changes.
-3. Create a new branch named `classmate`.
-4. Create a new file with your name (ex. `maya.txt`) and finish the following sentence _I enrolled Ironhack's Data Analytics bootcamp because..._. When you are done, save the changes.
+3. Create a new file with your name (ex. `maya.txt`) and finish the following sentence _I enrolled in Ironhack's Data Analytics bootcamp because..._. When you are done, save the changes.
 5. Add the changes to the git.
 6. Commit and push the changes. Now, all the changes should be on your GitHub, inside the forked repository.
 7. Create a pull request to make changes appear in the original repository.

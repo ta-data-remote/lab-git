@@ -12,7 +12,7 @@ Being able to use both, git and GitHub, is an important skill every software/dat
 
 2. Create a new repository in the GitHub. Name it `Iron`+ your name. Example: if your name is _Alvaro_, you will name the repo `IronAlvaro`.
 3. Clone that repo to your computer.
-4. Create a file in that folder. Name it `about.txt` and add a fun fact about yourself. (_You can use the command line: `touch nameOfTheFile.txt`_).
+4. Create a file in that folder. Name it `about.txt` and add a fun fact about yourself. (_You can use the command line: `touch about.txt`_).
 5. Add the file you just created to the git.
 6. Commit the changes.
 7. Push the changes to the GitHub and check your repository to make sure everything is there.
